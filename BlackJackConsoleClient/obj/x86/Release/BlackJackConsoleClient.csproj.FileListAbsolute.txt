@@ -1,0 +1,9 @@
+C:\Users\Arul\Downloads\TCS\BlackJack\BlackJackConsoleClient\bin\Release\BlackJack.exe
+C:\Users\Arul\Downloads\TCS\BlackJack\BlackJackConsoleClient\bin\Release\BlackJack.pdb
+C:\Users\Arul\Downloads\TCS\BlackJack\BlackJackConsoleClient\bin\Release\BlackJackGame.dll
+C:\Users\Arul\Downloads\TCS\BlackJack\BlackJackConsoleClient\bin\Release\CardGameFramework.dll
+C:\Users\Arul\Downloads\TCS\BlackJack\BlackJackConsoleClient\bin\Release\BlackJackGame.pdb
+C:\Users\Arul\Downloads\TCS\BlackJack\BlackJackConsoleClient\bin\Release\CardGameFramework.pdb
+C:\Users\Arul\Downloads\TCS\BlackJack\BlackJackConsoleClient\obj\x86\Release\BlackJackConsoleClient.csprojResolveAssemblyReference.cache
+C:\Users\Arul\Downloads\TCS\BlackJack\BlackJackConsoleClient\obj\x86\Release\BlackJack.exe
+C:\Users\Arul\Downloads\TCS\BlackJack\BlackJackConsoleClient\obj\x86\Release\BlackJack.pdb

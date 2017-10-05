@@ -1,0 +1,10 @@
+C:\Users\asajjad.XAVOR\Documents\Visual Studio 2010\Projects\BlackJack\CardGameFramework\bin\Debug\CardGameFramework.dll
+C:\Users\asajjad.XAVOR\Documents\Visual Studio 2010\Projects\BlackJack\CardGameFramework\bin\Debug\CardGameFramework.pdb
+C:\Users\asajjad.XAVOR\Documents\Visual Studio 2010\Projects\BlackJack\CardGameFramework\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\asajjad.XAVOR\Documents\Visual Studio 2010\Projects\BlackJack\CardGameFramework\obj\Debug\CardGameFramework.dll
+C:\Users\asajjad.XAVOR\Documents\Visual Studio 2010\Projects\BlackJack\CardGameFramework\obj\Debug\CardGameFramework.pdb
+C:\Users\Arul\Downloads\TCS\BlackJack\CardGameFramework\bin\Debug\CardGameFramework.dll
+C:\Users\Arul\Downloads\TCS\BlackJack\CardGameFramework\bin\Debug\CardGameFramework.pdb
+C:\Users\Arul\Downloads\TCS\BlackJack\CardGameFramework\obj\Debug\CardGameFramework.csprojResolveAssemblyReference.cache
+C:\Users\Arul\Downloads\TCS\BlackJack\CardGameFramework\obj\Debug\CardGameFramework.dll
+C:\Users\Arul\Downloads\TCS\BlackJack\CardGameFramework\obj\Debug\CardGameFramework.pdb

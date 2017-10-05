@@ -1,0 +1,27 @@
+C:\Users\asajjad.XAVOR\Documents\Visual Studio 2010\Projects\BlackJack\BlackJack\bin\Debug\BlackJack.exe
+C:\Users\asajjad.XAVOR\Documents\Visual Studio 2010\Projects\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
+C:\Users\asajjad.XAVOR\Documents\Visual Studio 2010\Projects\BlackJack\BlackJack\bin\Debug\BlackJackGame.dll
+C:\Users\asajjad.XAVOR\Documents\Visual Studio 2010\Projects\BlackJack\BlackJack\bin\Debug\CardGameFramework.dll
+C:\Users\asajjad.XAVOR\Documents\Visual Studio 2010\Projects\BlackJack\BlackJack\bin\Debug\BlackJackGame.pdb
+C:\Users\asajjad.XAVOR\Documents\Visual Studio 2010\Projects\BlackJack\BlackJack\bin\Debug\CardGameFramework.pdb
+C:\Users\asajjad.XAVOR\Documents\Visual Studio 2010\Projects\BlackJack\BlackJack\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\asajjad.XAVOR\Documents\Visual Studio 2010\Projects\BlackJack\BlackJack\obj\x86\Debug\BlackJack.exe
+C:\Users\asajjad.XAVOR\Documents\Visual Studio 2010\Projects\BlackJack\BlackJack\obj\x86\Debug\BlackJack.pdb
+C:\Users\Arul\Downloads\TCS\BlackJack\BlackJack\obj\x86\Debug\BlackJack.pdb
+C:\Users\Arul\Downloads\TCS\BlackJack\BlackJack\bin\Debug\BlackJack.exe
+C:\Users\Arul\Downloads\TCS\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
+C:\Users\Arul\Downloads\TCS\BlackJack\BlackJack\bin\Debug\BlackJackGame.dll
+C:\Users\Arul\Downloads\TCS\BlackJack\BlackJack\bin\Debug\CardGameFramework.dll
+C:\Users\Arul\Downloads\TCS\BlackJack\BlackJack\bin\Debug\BlackJackGame.pdb
+C:\Users\Arul\Downloads\TCS\BlackJack\BlackJack\bin\Debug\CardGameFramework.pdb
+C:\Users\Arul\Downloads\TCS\BlackJack\BlackJack\obj\x86\Debug\BlackJackConsoleClient.csprojResolveAssemblyReference.cache
+C:\Users\Arul\Downloads\TCS\BlackJack\BlackJack\obj\x86\Debug\BlackJack.exe
+C:\Users\Arul\Downloads\TCS\BlackJack\BlackJackConsoleClient\obj\x86\Debug\BlackJack.exe
+C:\Users\Arul\Downloads\TCS\BlackJack\BlackJackConsoleClient\obj\x86\Debug\BlackJack.pdb
+C:\Users\Arul\Downloads\TCS\BlackJack\BlackJackConsoleClient\obj\x86\Debug\BlackJackConsoleClient.csprojResolveAssemblyReference.cache
+C:\Users\Arul\Downloads\TCS\BlackJack\BlackJackConsoleClient\bin\Debug\BlackJack.exe
+C:\Users\Arul\Downloads\TCS\BlackJack\BlackJackConsoleClient\bin\Debug\BlackJack.pdb
+C:\Users\Arul\Downloads\TCS\BlackJack\BlackJackConsoleClient\bin\Debug\BlackJackGame.dll
+C:\Users\Arul\Downloads\TCS\BlackJack\BlackJackConsoleClient\bin\Debug\CardGameFramework.dll
+C:\Users\Arul\Downloads\TCS\BlackJack\BlackJackConsoleClient\bin\Debug\BlackJackGame.pdb
+C:\Users\Arul\Downloads\TCS\BlackJack\BlackJackConsoleClient\bin\Debug\CardGameFramework.pdb

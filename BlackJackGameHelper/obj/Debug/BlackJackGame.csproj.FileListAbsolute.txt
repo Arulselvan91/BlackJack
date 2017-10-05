@@ -1,0 +1,14 @@
+C:\Users\asajjad.XAVOR\Documents\Visual Studio 2010\Projects\BlackJack\BlackJackGame\bin\Debug\BlackJackGame.dll
+C:\Users\asajjad.XAVOR\Documents\Visual Studio 2010\Projects\BlackJack\BlackJackGame\bin\Debug\BlackJackGame.pdb
+C:\Users\asajjad.XAVOR\Documents\Visual Studio 2010\Projects\BlackJack\BlackJackGame\bin\Debug\CardGameFramework.dll
+C:\Users\asajjad.XAVOR\Documents\Visual Studio 2010\Projects\BlackJack\BlackJackGame\bin\Debug\CardGameFramework.pdb
+C:\Users\asajjad.XAVOR\Documents\Visual Studio 2010\Projects\BlackJack\BlackJackGame\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\asajjad.XAVOR\Documents\Visual Studio 2010\Projects\BlackJack\BlackJackGame\obj\Debug\BlackJackGame.dll
+C:\Users\asajjad.XAVOR\Documents\Visual Studio 2010\Projects\BlackJack\BlackJackGame\obj\Debug\BlackJackGame.pdb
+C:\Users\Arul\Downloads\TCS\BlackJack\BlackJackGameHelper\bin\Debug\BlackJackGame.dll
+C:\Users\Arul\Downloads\TCS\BlackJack\BlackJackGameHelper\bin\Debug\BlackJackGame.pdb
+C:\Users\Arul\Downloads\TCS\BlackJack\BlackJackGameHelper\bin\Debug\CardGameFramework.dll
+C:\Users\Arul\Downloads\TCS\BlackJack\BlackJackGameHelper\bin\Debug\CardGameFramework.pdb
+C:\Users\Arul\Downloads\TCS\BlackJack\BlackJackGameHelper\obj\Debug\BlackJackGame.csprojResolveAssemblyReference.cache
+C:\Users\Arul\Downloads\TCS\BlackJack\BlackJackGameHelper\obj\Debug\BlackJackGame.dll
+C:\Users\Arul\Downloads\TCS\BlackJack\BlackJackGameHelper\obj\Debug\BlackJackGame.pdb
